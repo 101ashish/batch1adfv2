@@ -1,0 +1,9 @@
+{
+	"name": "batch1adfv2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4080e31f-9978-456a-bcc4-d68293ef5010",
+		"tenantId": "567dd281-052e-4376-9103-fe18967fc8b7"
+	}
+}
